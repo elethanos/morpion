@@ -1,0 +1,10 @@
+* My "tic tac toe" game
+This tic tac toe game has an artificial intelligence based on the minimax algorithm.
+Try to beat it !
+
+To compile:
+
+#+BEGIN_SRC 
+gcc morpion.c -o morpion.out
+./morpion.out
+#+END_SRC 
